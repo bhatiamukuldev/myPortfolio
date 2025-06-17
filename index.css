@@ -59,6 +59,10 @@
     font-weight: 600;
 }
 
+.chat:hover{
+    border: 2px soli grey;
+}
+
 .join{
     border: none;
     background-color: orange;
